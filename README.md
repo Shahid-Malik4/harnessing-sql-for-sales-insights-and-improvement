@@ -39,7 +39,7 @@ Derived insights into top-selling products and their performance across categori
 
 
 ### Q: Best Selling Items?
-<img style="width:640px; height:320;" src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/best-selling-items.PNG" alt="Image">
+<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/best-selling-items.PNG" alt="Image">
 
 ### Q: Sales by Companies YTY?
 <img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/companies-sales-over-the-years.PNG" alt="Image">

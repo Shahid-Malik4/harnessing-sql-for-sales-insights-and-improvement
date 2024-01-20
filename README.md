@@ -42,28 +42,28 @@ Derived insights into top-selling products and their performance across categori
 <img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/best-selling-items.PNG" alt="Image">
 
 ### Q: Sales by Companies YTY?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/companies-sales-over-the-years.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/companies-sales-over-the-years.PNG" alt="Image">
 
 ### Q: Revenue Diff YTY?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/revenue-diff-yty.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/revenue-diff-yty.PNG" alt="Image">
 
 ### Q: Sales and Profit by Company?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/sales-and-profit-by-company.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/sales-and-profit-by-company.PNG" alt="Image">
 
 ### Q: Sales by Head?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/sales-by-head.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/sales-by-head.PNG" alt="Image">
 
 ### Q: Top 3 Customer's by each Head?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/top-3-customers-by-each-head.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/top-3-customers-by-each-head.PNG" alt="Image">
 
 ### Q: Sales by Customer's YTY?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/yty-sales-by-customers.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/yty-sales-by-customers.PNG" alt="Image">
 
 ### Q: Best Performing Companies?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/top-companies.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/top-companies.PNG" alt="Image">
 
 ### Q: Top Paying Customer's?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/top-customers.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/top-customers.PNG" alt="Image">
 
 
 ## Conclusion:

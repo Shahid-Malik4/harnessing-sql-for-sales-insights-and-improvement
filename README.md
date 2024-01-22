@@ -42,7 +42,7 @@ Derived insights into top-selling products and their performance across categori
 <img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/best-selling-items.PNG" alt="Image">
 
 ### Q: Sales by Companies YTY?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/companies-sales-over-the-years.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/companies-sales-over-the-years.PNG" alt="Image">
 
 ### Q: Revenue Diff YTY?
 <img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/revenue-diff-yty.PNG" alt="Image">

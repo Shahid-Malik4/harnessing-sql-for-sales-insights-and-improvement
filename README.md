@@ -3,7 +3,7 @@
 
 
 # Background
-Objective: To perform extensive sales analysis by leveraging MySQL's advanced SQL functionalities, including basic commands, GROUP BY, HAVING, Common Table Expressions (CTE), joins, subqueries, and window functions. The analysis focused on key features such as best-selling items, top-paying customers, sales trends by company, category, territory, time series analysis, and significant KPIs.
+**Objective:** To perform extensive sales analysis by leveraging MySQL's advanced SQL functionalities, including basic commands, GROUP BY, HAVING, Common Table Expressions (CTE), joins, subqueries, and window functions. The analysis focused on key features such as best-selling items, top-paying customers, sales trends by company, category, territory, time series analysis, and significant KPIs.
 
 
 ### The questions I wanted to answer:

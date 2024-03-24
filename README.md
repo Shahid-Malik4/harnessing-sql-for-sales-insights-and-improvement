@@ -44,33 +44,5 @@ Sales Analysis by Company, Category, Territory: Conducted comprehensive sales br
 Derived insights into top-selling products and their performance across categories and territories. Identified high-value customers significantly impacting overall sales revenue. Analyzed sales trends and patterns by company, category, and territory, providing actionable insights for strategic decision-making. Gained a comprehensive understanding of sales performance metrics and KPIs to assess business health and make informed decisions.
 
 
-### Q: Best Selling Items?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/best-selling-items.PNG" alt="Image">
-
-### Q: Sales by Companies YTY?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/companies-sales-over-the-years.PNG" alt="Image">
-
-### Q: Revenue Diff YTY?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/revenue-diff-yty.PNG" alt="Image">
-
-### Q: Sales and Profit by Company?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/sales-and-profit-by-company.PNG" alt="Image">
-
-### Q: Sales by Head?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/sales-by-head.PNG" alt="Image">
-
-### Q: Top 3 Customer's by each Head?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/top-3-customers-by-each-head.PNG" alt="Image">
-
-### Q: Sales by Customer's YTY?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/yty-sales-by-customers.PNG" alt="Image">
-
-### Q: Best Performing Companies?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/top-companies.PNG" alt="Image">
-
-### Q: Top Paying Customer's?
-<img src="https://github.com/Shahid-Malik4/harnessing-sql-for-sales-insights-and-improvement/blob/main/top-customers.PNG" alt="Image">
-
-
 ## Conclusion:
 The "Harnessing SQL for Sales Insights and Improvement" project leveraged MySQL's advanced SQL functionalities to perform a detailed analysis of sales data, deriving valuable insights and key performance indicators. By employing various SQL commands and functions, the project enabled stakeholders to gain a deeper understanding of sales trends, top performers, and crucial business metrics, empowering informed decision-making.

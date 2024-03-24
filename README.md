@@ -1,22 +1,28 @@
-# Harnessing SQL for Sales Insights and Improvement
+# Introduction
+📊 The "Harnessing SQL for Sales Insights and Improvement" project involved comprehensive analysis of sales data extracted from SQL Server, imported into MySQL for data preparation, cleaning, normalization, and in-depth analysis using various SQL commands and functions. The project aimed to derive actionable insights, identify key sales metrics, and explore sales trends using advanced SQL functionalities.
 
-# SET Images Size
 
-### Skills & Tools:
-* MS SQL Server
-* Excel
-* SQL
-* MySQL
-
-# Introduction:
-The "Harnessing SQL for Sales Insights and Improvement" project involved comprehensive analysis of sales data
-extracted from SQL Server, imported into MySQL for data preparation, cleaning, normalization,
-and in-depth analysis using various SQL commands and functions. The project aimed to derive actionable insights,
-identify key sales metrics, and explore sales trends using advanced SQL functionalities.
-
-# Project Overview:
+# Background
 Objective: To perform extensive sales analysis by leveraging MySQL's advanced SQL functionalities, including basic commands, GROUP BY, HAVING, Common Table Expressions (CTE), joins, subqueries, and window functions. The analysis focused on key features such as best-selling items, top-paying customers, sales trends by company, category, territory, time series analysis, and significant KPIs.
 
+
+### The questions I wanted to answer:
+
+1. Distribution of medals among male and female athletes?
+2. What countries participated in almost every Olympic Season?
+3. Participants and Events by Season?
+4. Medals distribution by Athletes, Countries and Sports throughout the Year's?
+5. Athletes Participations and Medal Winning Analysis?
+
+
+# Tools I Used
+For my deep dive into the analysis, I harnessed the power of several key tools:
+
+- **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
+- **MySQL:** The chosen database management system, ideal for handling the job posting data.
+- **MS SQL Server:** My go-to for analysis and visualization.
+- **Excel:** The handy tool for Data manipulation.
+- **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 # Project Phases:
 
